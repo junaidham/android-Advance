@@ -3,28 +3,20 @@
 ## Nested RecyclerView in Android
 https://www.geeksforgeeks.org/how-to-create-a-nested-recyclerview-in-android
 
-https://proandroiddev.com/nested-recyclerview-and-databinding-a4943d05dbda               
+-> https://proandroiddev.com/nested-recyclerview-and-databinding-a4943d05dbda               
+--> https://github.com/eric-ampire/nested-recycler-view
 
-https://github.com/eric-ampire/nested-recycler-view
-
-https://steemit.com/utopian-io/@ideba/implement-a-nested-recycler-view-android            
-
-https://github.com/enyason/NestedRV
+-> https://steemit.com/utopian-io/@ideba/implement-a-nested-recycler-view-android            
+--> https://github.com/enyason/NestedRV
 
 
-https://github.com/malikmotani/NestedRecyclerView-Master
-
-https://github.com/ngocchung/NestedScrollView
-
-https://github.com/msahakyan/nested-recycler-view
-
-https://github.com/EnjoyAndroid/RecyclerviewNestedRecyclerview
-
-https://github.com/thejitesh/NestedExpandableRecyclerView
-
-https://github.com/ishroid/NestedTimeLineRecyclerView
-
-https://github.com/JasonGaoH/NestedRecyclerView
+--> https://github.com/malikmotani/NestedRecyclerView-Master
+--> https://github.com/ngocchung/NestedScrollView
+--> https://github.com/msahakyan/nested-recycler-view
+--> https://github.com/EnjoyAndroid/RecyclerviewNestedRecyclerview
+--> https://github.com/thejitesh/NestedExpandableRecyclerView
+--> https://github.com/ishroid/NestedTimeLineRecyclerView
+--> https://github.com/JasonGaoH/NestedRecyclerView
 
 
 ## Nested RecyclerView in Kotlin
