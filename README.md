@@ -1,6 +1,6 @@
 # android-Advance
 
-# Nested RecyclerView in Android
+## Nested RecyclerView in Android
 https://www.geeksforgeeks.org/how-to-create-a-nested-recyclerview-in-android
 
 https://proandroiddev.com/nested-recyclerview-and-databinding-a4943d05dbda
