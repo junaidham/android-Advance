@@ -4,9 +4,11 @@
 https://www.geeksforgeeks.org/how-to-create-a-nested-recyclerview-in-android
 
 https://proandroiddev.com/nested-recyclerview-and-databinding-a4943d05dbda
+
 https://github.com/eric-ampire/nested-recycler-view
 
 https://steemit.com/utopian-io/@ideba/implement-a-nested-recycler-view-android
+
 https://github.com/enyason/NestedRV
 
 https://github.com/malikmotani/NestedRecyclerView-Master
