@@ -32,7 +32,6 @@ https://github.com/cabriole/lista
 
 
 ## Nested recyclerview android kotlin MVVM
-
 https://www.phunware.com/blog/android-clean-coding-approach
 https://github.com/phunware/blog-android-clean-coding-approach
 
