@@ -22,7 +22,7 @@ https://github.com/ishroid/NestedTimeLineRecyclerView
 https://github.com/JasonGaoH/NestedRecyclerView
 
 
-##Nested RecyclerView in Kotlin
+## Nested RecyclerView in Kotlin
 https://medium.com/android-news/easily-adding-nested-recycler-view-in-android-a7e9f7f04047
 https://github.com/navi25/nestedRecycler
 
